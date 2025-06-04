@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100vh;
+    
+}
+body {
+    background: url(assets/bg\ 1920.png);
+    font-family: 'Hammersmith', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    padding: 0 10vw 0 10vw;
+
+}
+body nav { 
+    height: 12vh;
+    width: 80vw;
+    margin: auto;
+    border-bottom: solid 2px rgb(255, 255, 255, .5);
+    display: flex;
+    justify-content: center;
+}
+
+body nav ul {
+    list-style: none;
+    display: inline-flex;
+    width: auto;
+    margin: auto;
+    gap: 20px;
+}   
+body nav div{
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.2rem;
+}   
+body nav div, nav ul li a{
+    color: white;
+    font-weight: 550;
+    text-transform: uppercase;
+    text-decoration: none;
+    transform: scaleY(1.09);
+} 
+#title {
+    color: white;
+    font-size: 4rem;
+    margin-top: 10vw;
+}
