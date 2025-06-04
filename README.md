@@ -1,2 +1,1 @@
-# Practice-WebDev
-The PROJECTS inside this repo were inspired by another.
+The PROJECTS inside this repo were inspired by another. I don't own any of the designs nor the concepts that were used here. However, the coding were done by myself and the new ui that were INSPIRED done by me as well. This Projects serves only as a practice of my coding skills and proficiency on using tools such as figma and photoshop. 
